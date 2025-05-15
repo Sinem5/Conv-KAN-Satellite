@@ -1,1 +1,1 @@
-# Convolutional-KAN-Space-Craft-
+# Convolutional KAN Satellite Images Classification
